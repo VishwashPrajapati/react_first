@@ -1,0 +1,23 @@
+.main__nav {
+    width: 100%;
+}
+
+.navbar {
+    background-color: crimson;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.active_class {
+    color: black !important;
+    transform: scale(1.1);
+    width: fit-content;
+}
